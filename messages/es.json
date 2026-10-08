@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "story": "Historia",
+    "endings": "Finales"
+  },
+  "footer": {
+    "tagline": "Una Historia de Elige Tu Propia Aventura",
+    "made": "Hecho con 💛 para niños curiosos en todas partes"
+  },
+  "hero": {
+    "heading": "El Cachorro Perdido 🐶",
+    "body": "¡Un pequeño cachorro está perdido! ¿PUEDES ayudar a encontrar el camino a casa? Cada elección que hagas cambia la historia. ¡Vamos a una aventura!",
+    "cta": "¡Comienza la Aventura!",
+    "emoji": "🐶"
+  },
+  "endings-tracker": {
+    "heading": "¡Finales Felices Encontrados! 🌟",
+    "body": "¡Cada camino lleva a algún lugar maravilloso! ¿Cuántos finales felices puedes descubrir?",
+    "items": [
+      {
+        "key": "ending-ranger",
+        "label": "Hero of the Park",
+        "emoji": "⭐",
+        "hint": "Help Biscuit with the park ranger"
+      },
+      {
+        "key": "ending-mia",
+        "label": "Best Friends!",
+        "emoji": "🎀",
+        "hint": "Call Mia and wait together"
+      },
+      {
+        "key": "ending-gate",
+        "label": "Home Sweet Home",
+        "emoji": "🏡",
+        "hint": "Follow Biscuit's paw prints to the yellow gate"
+      },
+      {
+        "key": "ending-leo",
+        "label": "Neighbourhood Hero",
+        "emoji": "🏅",
+        "hint": "Shout for help and go with Leo"
+      }
+    ]
+  },
+  "start-over": {
+    "heading": "¿Quieres intentar un camino diferente? 🔄",
+    "body": "Vuelve al principio y haz diferentes elecciones. ¡Quizás encuentres un nuevo final feliz!",
+    "cta": "Comenzar de Nuevo 🐾"
+  },
+  "story": {
+    "startOver": "Comenzar de Nuevo 🐾",
+    "foundEnding": "¡Encontraste un final feliz!",
+    "endingsFound": "finales encontrados",
+    "of": "de",
+    "keepExploring": "¡Sigue explorando para encontrarlos todos!"
+  },
+  "meta": {
+    "title": "El Cachorro Perdido",
+    "description": "Una historia de elige tu propia aventura para niños de 6 a 10 años. ¡Ayuda a Biscuit a encontrar el camino a casa!"
+  },
+  "how": {
+    "heading": "Cómo Jugar",
+    "items": [
+      {
+        "emoji": "📖",
+        "title": "Read the story",
+        "desc": "Each screen has a short scene. Read it aloud or to yourself!"
+      },
+      {
+        "emoji": "👆",
+        "title": "Make a choice",
+        "desc": "Tap one of the big colourful buttons to decide what happens next."
+      },
+      {
+        "emoji": "🏆",
+        "title": "Find all endings",
+        "desc": "There are 4 happy endings to discover. Can you find them all?"
+      }
+    ]
+  },
+  "tracker": {
+    "label": "Finales Encontrados",
+    "found": "{count} / {total} encontrados"
+  },
+  "endings": {
+    "heading": "Los 4 Finales Felices",
+    "sub": "Juega la historia para desbloquear cada final. ¡No hay finales tristes aquí!",
+    "locked": "Aún no encontrado",
+    "discovered": "¡Descubierto!"
+  },
+  "cta": {
+    "heading": "¿Listo para otra aventura?",
+    "sub": "Cada elección lleva a algún lugar maravilloso. ¡Juega de nuevo y ve a dónde te lleva Biscuit!",
+    "button": "Jugar de Nuevo"
+  }
+}

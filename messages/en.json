@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "story": "Story",
+    "endings": "Endings"
+  },
+  "footer": {
+    "tagline": "A Choose-Your-Adventure Story",
+    "made": "Made with 💛 for curious kids everywhere"
+  },
+  "hero": {
+    "heading": "The Lost Puppy 🐶",
+    "body": "A tiny puppy is lost! Can YOU help find the way home? Every choice you make changes the story. Let's go on an adventure!",
+    "cta": "Start the Adventure!",
+    "emoji": "🐶"
+  },
+  "endings-tracker": {
+    "heading": "Happy Endings Found! 🌟",
+    "body": "Every path leads somewhere wonderful! How many happy endings can you discover?",
+    "items": [
+      {
+        "key": "ending-ranger",
+        "label": "Hero of the Park",
+        "emoji": "⭐",
+        "hint": "Help Biscuit with the park ranger"
+      },
+      {
+        "key": "ending-mia",
+        "label": "Best Friends!",
+        "emoji": "🎀",
+        "hint": "Call Mia and wait together"
+      },
+      {
+        "key": "ending-gate",
+        "label": "Home Sweet Home",
+        "emoji": "🏡",
+        "hint": "Follow Biscuit's paw prints to the yellow gate"
+      },
+      {
+        "key": "ending-leo",
+        "label": "Neighbourhood Hero",
+        "emoji": "🏅",
+        "hint": "Shout for help and go with Leo"
+      }
+    ]
+  },
+  "start-over": {
+    "heading": "Want to try a different path? 🔄",
+    "body": "Go back to the beginning and make different choices. Maybe you will find a new happy ending!",
+    "cta": "Start Over 🐾"
+  },
+  "story": {
+    "startOver": "Start Over 🐾",
+    "foundEnding": "You found a happy ending!",
+    "endingsFound": "endings found",
+    "of": "of",
+    "keepExploring": "Keep exploring to find them all!"
+  },
+  "meta": {
+    "title": "The Lost Puppy",
+    "description": "A choose-your-adventure story for kids aged 6–10. Help Biscuit find his way home!"
+  },
+  "how": {
+    "heading": "How to Play",
+    "items": [
+      {
+        "emoji": "📖",
+        "title": "Read the story",
+        "desc": "Each screen has a short scene. Read it aloud or to yourself!"
+      },
+      {
+        "emoji": "👆",
+        "title": "Make a choice",
+        "desc": "Tap one of the big colourful buttons to decide what happens next."
+      },
+      {
+        "emoji": "🏆",
+        "title": "Find all endings",
+        "desc": "There are 4 happy endings to discover. Can you find them all?"
+      }
+    ]
+  },
+  "tracker": {
+    "label": "Endings Found",
+    "found": "{count} / {total} found"
+  },
+  "endings": {
+    "heading": "All 4 Happy Endings",
+    "sub": "Play through the story to unlock every ending. No sad endings here!",
+    "locked": "Not found yet",
+    "discovered": "Discovered!"
+  },
+  "cta": {
+    "heading": "Ready for another adventure?",
+    "sub": "Every choice leads somewhere wonderful. Play again and see where Biscuit takes you next!",
+    "button": "Play Again"
+  }
+}
